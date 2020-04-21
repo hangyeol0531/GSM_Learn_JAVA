@@ -5,6 +5,10 @@ public class GSM08 {
         // 메서드를 호출(call->부른다)
         int v= total(1, 10); // parameter passing(인수 전달기법) -> Call by Value
         System.out.println(v);
+        
+        GSM08 g= new GSM08();
+        int vv = g.twoHap(1, 100);
+        System.out.println(vv);
         System.out.println(twoHap(1, 100));
     }
     // 매개변수로 2개의 정수를 받아서 총합을 구하여 리턴하는 메서드를 정의 하시오.
