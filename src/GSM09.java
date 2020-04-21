@@ -1,6 +1,7 @@
 import gsm.util.Myutil;
 import java.lang.System;
 import java.lang.String;
+import java.lang.*;
 
 public class GSM09 {
 
