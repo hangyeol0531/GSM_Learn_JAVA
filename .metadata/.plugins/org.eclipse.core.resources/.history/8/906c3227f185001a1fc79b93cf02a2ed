@@ -11,7 +11,7 @@ public class GSM11 {
 		int [] arr = new int [5];
 		// 정수 10개를 저장할 수 있는 int array 객체 생성 
 		IntArray a1 = new IntArray();
-		IntArray a2 = new IntArray(10);
+		IntArray a2 = new IntArray(20);
 	}
 
 }
