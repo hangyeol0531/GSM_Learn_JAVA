@@ -1,0 +1,10 @@
+import gsm.util.Myutil;
+
+public class GSM11 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		float v = Myutil.hap(34.5f, 67,8f);
+	}
+
+}

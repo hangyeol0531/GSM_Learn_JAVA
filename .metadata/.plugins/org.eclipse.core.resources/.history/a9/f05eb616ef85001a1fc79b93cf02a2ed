@@ -1,0 +1,14 @@
+package gsm.util;
+
+public class intArrary {
+	
+	private int[] arr;
+	public IntArray() {
+		arr = new int[10];
+	}
+	
+	public IntArray(int inital) {
+		arr = new int[inital];
+	}
+
+}
