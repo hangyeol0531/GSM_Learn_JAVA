@@ -1,0 +1,21 @@
+package gsm.util;
+
+public class IntArray {
+	
+	private int[] arr;
+	private int cnt;
+	
+	public IntArray() {
+		this(10);
+	}
+
+	
+	public IntArray(int inital) {
+		arr = new int[inital];
+	}
+	
+	//배열에데이터를 저장하는 동작
+	public void add(int data) {
+		arr[0] = data;
+	}
+}
