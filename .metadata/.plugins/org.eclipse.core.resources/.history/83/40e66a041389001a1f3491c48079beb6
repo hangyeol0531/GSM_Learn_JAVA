@@ -1,0 +1,13 @@
+import gsm.util.MovieArray;
+
+public class GSM14 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		 MovieArray movie = new MovieArray(3);
+		 movie.add(new MovieVO("기생충", "송강호", 10000, 15));
+		 movie.add(new MovieVO("노무현입니다", "노무현", 10000, 12));
+		 movie.add(new MovieVO("어벤져스: 엔드게임", "유태건", 10000, 12));
+	}
+
+}

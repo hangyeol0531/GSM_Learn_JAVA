@@ -14,7 +14,7 @@ public class GSM12 {
 		a1.add(4.4f);
 		a1.add(5.5f);
 		a1.add(6.6f);
-		
+	
 		for(int i = 0; i < a1.size(); i++) {
 			System.out.println(a1.get(i));
 		}

@@ -1,0 +1,9 @@
+
+public class GSM14 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		movie1 = new MovieVO("")
+	}
+
+}

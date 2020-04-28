@@ -1,0 +1,6 @@
+
+public class GSM16 {
+	public static void main(String[] args) {
+		Dog d =new Dog();
+	}
+}
