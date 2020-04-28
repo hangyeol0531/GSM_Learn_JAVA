@@ -3,4 +3,7 @@
 <fullyQualifiedTypeName name="gsm.util.Myutil"/>
 <fullyQualifiedTypeName name="com.sun.javafx.image.impl.IntArgb"/>
 <fullyQualifiedTypeName name="gsm.util.IntArray"/>
+<fullyQualifiedTypeName name="gsm.util.MovieArray"/>
+<fullyQualifiedTypeName name="gsm.util.MovieVO"/>
+<fullyQualifiedTypeName name="gsm.util.Cat"/>
 </qualifiedTypeNameHistroy>
