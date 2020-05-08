@@ -1,8 +1,0 @@
-import gsm.util.Cat;
-import gsm.util.Dog;
-
-public class GSM16 {
-	public static void main(String[] args) {
-		Dog d =new Dog();
-	}
-}

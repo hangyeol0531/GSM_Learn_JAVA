@@ -1,9 +1,0 @@
-package gsm.util;
-
-public class Dog extends Animal{
-	public static void main(String[] agrs) {
-		Dog d = new Dog();
-		d.setName("멍멍이");
-		d.setAge(3);
-	}
-}

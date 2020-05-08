@@ -1,9 +1,0 @@
-
-public class GSM14 {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		MovieVO movie1 = new MovieVO("슈렉", "정한결 ", "12000", "10");
-	}
-
-}

@@ -6,4 +6,6 @@
 <fullyQualifiedTypeName name="gsm.util.MovieArray"/>
 <fullyQualifiedTypeName name="gsm.util.MovieVO"/>
 <fullyQualifiedTypeName name="gsm.util.Cat"/>
+<fullyQualifiedTypeName name="gsm.poly.Cat"/>
+<fullyQualifiedTypeName name="gsm.poly.Dog"/>
 </qualifiedTypeNameHistroy>
