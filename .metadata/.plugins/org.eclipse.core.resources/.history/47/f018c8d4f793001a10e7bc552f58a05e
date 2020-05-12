@@ -1,0 +1,6 @@
+package gsm.poly;
+// 1.
+import java.lang *;
+public class A extends Object /*  3. */ {
+ //2.
+}

@@ -8,6 +8,8 @@ public class gsm18 {
 		c.eat();
 		c.move();
 		
+		((Cat)c).night();
+		
 		Animal d = new Dog();
 		d.eat();
 		d.move();

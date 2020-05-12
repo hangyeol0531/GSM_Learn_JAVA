@@ -1,0 +1,31 @@
+import gsm.poly.A;
+import gsm.poly.Animal;
+import gsm.poly.B;
+public class GSM23 {
+
+	public static void main(String[] args) {
+		
+		
+		Object[] obj=new Object[2]; 
+
+		((A)obj).ptr(); //X --> 수정 
+		
+		obj = new B();
+		((B)obj).ptr(); //X --> 수정 
+		
+		A a = new A();
+		display(a);
+		
+		B b = new B();
+		display(b);
+	}
+	
+	public static void display(Object obj) { //중요 
+		if(obj instanceof A) {
+			((A)obj).ptr();
+		}else if(obj instanceof B){
+			((B)obj).ptr();
+		}
+	}
+
+}

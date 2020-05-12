@@ -1,0 +1,16 @@
+
+public class GSM20 {
+
+	public static void main(String[] args) {
+		
+		Dog d = new Dog();
+		
+		dispaly(d);
+		
+		Cat c = new Cat();
+		
+		display(c);
+
+	}
+
+}
