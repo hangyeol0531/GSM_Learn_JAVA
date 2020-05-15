@@ -8,4 +8,10 @@
 <fullyQualifiedTypeName name="gsm.util.Cat"/>
 <fullyQualifiedTypeName name="gsm.poly.Cat"/>
 <fullyQualifiedTypeName name="gsm.poly.Dog"/>
+<fullyQualifiedTypeName name="gsm.poly.Animal"/>
+<fullyQualifiedTypeName name="db.driver.DBDriver"/>
+<fullyQualifiedTypeName name="db.driver.MyMySQLdriver"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="java.net.ConnectException"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
 </qualifiedTypeNameHistroy>

@@ -1,7 +1,0 @@
-package gsm.poly;
-
-public class Animal {
-	public void eat() {
-		System.out.println("동물 처럼 먹.");
-	}
-}
