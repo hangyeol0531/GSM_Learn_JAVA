@@ -15,4 +15,5 @@
 <fullyQualifiedTypeName name="java.net.ConnectException"/>
 <fullyQualifiedTypeName name="java.sql.Connection"/>
 <fullyQualifiedTypeName name="basic_pr.InsertionSort"/>
+<fullyQualifiedTypeName name="java.sql.ResultSet"/>
 </qualifiedTypeNameHistroy>

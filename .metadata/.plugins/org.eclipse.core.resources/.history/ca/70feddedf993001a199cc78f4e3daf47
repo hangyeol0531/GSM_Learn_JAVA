@@ -1,7 +1,0 @@
-package gsm.poly;
-
-public class B {
-	public B() extends Object {
-		super();
-	}
-}

@@ -1,9 +1,0 @@
-
-public class GSM23 {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		// A,B 클래스를 배열에 저장하고 
-	}
-
-}

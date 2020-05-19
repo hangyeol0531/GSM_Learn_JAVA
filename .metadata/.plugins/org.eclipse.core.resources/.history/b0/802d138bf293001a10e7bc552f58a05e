@@ -1,9 +1,0 @@
-
-public class GSM21 {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		//Dog, Cat을 배열에 저하고 Dog, Cat의 eat(), move() night() 메서드를 동작 
-		}
-
-}
