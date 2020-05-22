@@ -16,4 +16,17 @@
 <fullyQualifiedTypeName name="java.sql.Connection"/>
 <fullyQualifiedTypeName name="basic_pr.InsertionSort"/>
 <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="MemberVO"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="JDBC05"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Member"/>
+<fullyQualifiedTypeName name="kr.gsm.MemberVO"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="oracle.net.aso.s"/>
+<fullyQualifiedTypeName name="javax.swing.plaf.nimbus.State"/>
+<fullyQualifiedTypeName name="org.omg.PortableServer.POAManagerPackage.State"/>
+<fullyQualifiedTypeName name="java.lang.Thread.State"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
 </qualifiedTypeNameHistroy>
