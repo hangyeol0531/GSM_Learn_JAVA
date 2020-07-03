@@ -3,8 +3,26 @@
 <head>
 <meta charset="EUC-KR">
 <title>Insert title here</title>
+<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+<script type="text/javascript">
+  $(document).ready(function(){
+      $("#btn").click(function(){
+          $.ajax({
+              url : "memList.me",     //MemListController.java
+              type : "get",         //
+              dataType : "html",    // <---- ......
+              success : resultHtml,
+              error : function(){alert("error");}
+          });
+      });
+  });
+  function resultHtml(data){
+      alert(data);
+  }
+</script>
 </head>
 <body>
-	32017 정한결  Welcome.
+ - jQuery(Ajax 실습) - <br>
+<input type="button" value="리스트가져오기" id="btn"/>
 </body>
 </html>
